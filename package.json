@@ -2,7 +2,7 @@
   "name": "spa_project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/mortezadalir/react-gh-pages.git",
+  "homepage": "http://mortezadalir.github.io/react-gh-pages",
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
